@@ -23,7 +23,7 @@ assignment (numeric) - A student's average grade for the course assignments
 ```
 c.tree1 <- rpart(certified~grade+assignment, method="class", data=M1)
 ```
-![tree1]((https://github.com/lizarova777/assignment6/blob/master/tree1.png))
+![tree1](https://github.com/lizarova777/assignment6/blob/master/tree1.png)
 
 ### Pruned Tree:
 ```
